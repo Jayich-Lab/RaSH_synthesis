@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 2x Ring Stand
 
-1x Three Necked Flask https://www.sigmaaldrich.com/US/en/product/aldrich/synf431100?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1
+1x [Three Necked Flask](https://www.sigmaaldrich.com/US/en/product/aldrich/synf431100?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1)
 
 1x Addition Funnel https://www.sigmaaldrich.com/US/en/product/aldrich/z548693
 
