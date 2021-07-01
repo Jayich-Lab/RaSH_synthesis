@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 
 # RaSH<sup>+</sup> production
-Instructions for making RaSH<sup>+</sup> by leaking H<sub>2</sub>S gas into the vacuum chamber.
+Instructions for making RaSH<sup>+</sup> by leaking H<sub>2</sub>S gas into the vacuum chamber where Ra<sup>+</sup> is being laser-cooled in our ion trap.
 
 ## Parts
 
