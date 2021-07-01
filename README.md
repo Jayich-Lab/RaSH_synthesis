@@ -1,8 +1,8 @@
 # RaSH<sup>+</sup>
-[Our research group](https://jayich.io/) is generally interested in working with exotic radioactive molecules to search for sources of new physics beyond the standard model.  To this end, the bent molecular ion RaSH<sup>+</sup> holds much discovery potential.  We described below how we produce cold and trapped RaSH<sup>+</sup> in our ion trapping system.
+[Our research group](https://jayich.io/) is generally interested in working with exotic radioactive molecules to search for sources of new physics beyond the standard model.  To this end, the bent molecular ion RaSH<sup>+</sup> holds much discovery potential.  We describe below how we produce cold and trapped RaSH<sup>+</sup> in our ion trapping system.
 
 # H<sub>2</sub>S production
-Instructions for synthesizing H<sub>2</sub>S to be used for synthesizing trapped RaSH<sup>+</sup>.
+Instructions for synthesizing H<sub>2</sub>S to be used for trapping RaSH.
 
 **Warning:** The following chemistry should only be done under the protection of a fume hood! H<sub>2</sub>S is highly toxic even in small quantities.
 ## Reference Video 
@@ -42,14 +42,14 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 30 g Iron(II) Sulfide
 
-Argon gas
+Argon gas cylinder
 
 ## Procedure
 
 1) Put one H<sub>2</sub>S detector in the fumehood, and a second outside of the fumehood.
-2) Fill a graduated cylinder with 50 mL of DI water. Put 21 g of CuSO4 into the graduated cylinder. Stir the solution with the glass straw to dissolve until saturated.
-3) Put 5 g of FeS into the three-neck flask.
-4) Make sure that the addition funnel valve is closed, and replace the funnel with the addition funnel.
+2) Fill a graduated cylinder with 50 mL of DI water. Put 21 g of CuSO4 into the graduated cylinder. Stir the solution until saturated.
+3) Put 5 g of FeS into the three-neck flask using a funnel.
+4) Make sure that the addition funnel valve is closed, and replace the funnel from the previous step with the addition funnel.
 5) Add 10 mL of saturated HCl into the addition funnel. This amount of HCl is estimated to make 1-2 L of gaseous H<sub>2</sub>S.
 6) Place the base of the three neck flask in an ice bath. We do this to cool the HCl during the reaction so that HCl vapor is produced in smaller quantities relative to H<sub>2</sub>S than without an ice bath.
 7) Close the valve connecting the three-neck flask with the CF valves, and open the valve connecting the argon to the three-neck flask.
