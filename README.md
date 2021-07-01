@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 18) Clean all glassware.
 
 
-# RaSH production
+# RaSH^+ production
 Instructions for making RaSH by leaking H2S gas into the vacuum chamber.
 
 ## Parts: 
