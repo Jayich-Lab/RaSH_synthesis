@@ -108,5 +108,5 @@ We begin with a chain of 2 or 3 Ra<sup>+</sup> ions. Then, we leak in H<sub>2</s
 When an ion goes dark, we immediately perform OMS and record an FFT of the axial oscillation frequency. We continue to do this periodically, (about every 5 minutes), in order to check if there has been any drift of the axial frequency. We monitor the dark ion until it dissociates, and as soon as the dark ion dissociates, we perform OMS on the the chain of bright ions. We use the data from the post-dissociation OMS FFT to calibrate the final dark ion OMS FFT, and end up with the following plot:
 ![RaSH_github](https://user-images.githubusercontent.com/59063892/124175841-f4952f80-da62-11eb-85fb-e6cd5a95b95e.png)
 
-**With this plot, we can see that the dark ion has a mass of roughly 259 amu, equal to 226+33 (SH = 33 amu). This confirms RaSH<sup>+</sup> synthesis!**
+**This data confirms that we a trapped dark ion made from radium and H<sub>2</sub>S which has a mass of about 259 amu, equal to 226+33 (Ra = 226 amu, SH = 33 amu). This confirms RaSH<sup>+</sup> synthesis!**
 
