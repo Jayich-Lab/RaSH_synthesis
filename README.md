@@ -90,3 +90,17 @@ CF 1.33in tubing
 6) Open the CF valve that connects the CF 'T' and the precision leak valve. There should now be a throughline for the H2S to get to the leak valve on the trap. H2S pressure will depend on the length of the CF tube used, but should be at least a factor of 5 less than 1 atm. 
 7) Trap Ra ions. Then, by slowly opening the precision leak valve, introduce H2S into the trap. Look for gas collisions on the trap CCD and wait for a dark ion to be produced. Use OMS to confirm that RaSH is the dark ion. 
 
+## Confirming RaSH+ production
+
+We use Optical Mass Spectrometry with sub-dalton resolution to identify dark ions in our trap. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.023002
+<img width="945" alt="OMS_github" src="https://user-images.githubusercontent.com/59063892/124172376-98c8a780-da5e-11eb-87de-84c6e35ea9ee.png">
+
+Figure: An illustration of OMS on an arbitrary dark ion trapped between 2 "bright" Ra+ ions.
+ 
+We begin with a chain of 2 or 3 Ra+ ions. Then, we leak in H2S gas (using the procedure above) and wait for one of the ions to go dark (depicted as a black box with a question mark in the figure above). We detune our 468nm cooling laser, which causes "global heating" and "local cooling" effects, leading our ion chain to oscillate axially in the trap with a frequency that is a function of the mass of the ions in the chain. 
+
+When an ion goes dark, we immediately perform the OMS (Optical Mass Spectrometry) technique and record an FFT of the axial oscillation frequency. We continue to do this periodically, (about every 5 minutes), in order to check if the axial frequency is drifting due to pressure or temperature changes in the trap vacuum chamber. We continue to watch the dark ion until it dissociates, which normally takes on the order of one hour from initial production. As soon as the dark ion dissociates, we perform OMS on the the chain of bright ions. We use the data from the post-dissociation OMS FFT to calibrate the final dark ion OMS FFT, and end up with the following plot:
+![RaSH_github](https://user-images.githubusercontent.com/59063892/124175841-f4952f80-da62-11eb-85fb-e6cd5a95b95e.png)
+
+**With this plot, we can see that the dark ion has a mass of roughly 259 amu, equal to 226+33 (SH = 33 amu). This confirms the production of RaSH+!**
+
