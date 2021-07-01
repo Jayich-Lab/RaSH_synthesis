@@ -22,13 +22,13 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 2x Synthware™ 90 degree vacuum adapter with glass stopcock https://www.sigmaaldrich.com/US/en/product/aldrich/syna751420?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-3
 
-1x 50mL graduated cylinder
+1x 50 mL graduated cylinder
 
 1x Long glass straw (anything that can get H2S to the bottom of the graduated cylinder.)
 
 2x CF Valve
 
-3/8in tubing and 1/4in tubing
+3/8 in tubing and 1/4 in tubing
 
 ![hydrogen-sulfide-glassware-setup](https://user-images.githubusercontent.com/59063892/124081631-a3ecea80-da00-11eb-8b3f-7feb92d45f9f.jpg)
 ## Chemicals
