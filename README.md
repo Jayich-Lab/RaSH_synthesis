@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 30 g Iron(II) Sulfide
 
+Argon gas
+
 ## Procedure
 
 1) Put one H<sub>2</sub>S detector in the fumehood, and a second outside of the fumehood.
