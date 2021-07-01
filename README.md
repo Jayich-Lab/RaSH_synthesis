@@ -1,7 +1,7 @@
 # H<sub>2</sub>S production
 Instructions for synthesizing H<sub>2</sub>S to be used for trapping RaSH.
 
-**Warning:** The following chemistry should only be done under the protection of a fume hood! H2S is highly toxic even in small quantities.
+**Warning:** The following chemistry should only be done under the protection of a fume hood! H<sub>2</sub>S is highly toxic even in small quantities.
 ## Reference Video 
 This video explains how to make H<sub>2</sub>S, and is what we followed to develop our procedure.
 https://www.youtube.com/watch?v=cRtsexmFO4s
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 1x 50 mL graduated cylinder
 
-1x Long glass straw (anything that can get H2S to the bottom of the graduated cylinder.)
+1x Long glass straw (anything that can get H<sub>2</sub>S to the bottom of the graduated cylinder.)
 
 2x CF Valve
 
