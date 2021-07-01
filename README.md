@@ -98,7 +98,7 @@ CF 1.33 in tubing
 We use Optical Mass Spectrometry (OMS), which can realize sub-dalton resolution, to identify dark ions in our trap. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.023002
 <img width="945" alt="OMS_github" src="https://user-images.githubusercontent.com/59063892/124172376-98c8a780-da5e-11eb-87de-84c6e35ea9ee.png">
 
-Figure: An illustration of OMS on an arbitrary dark ion trapped between 2 "bright" Ra<sup>+</sup> ions.
+Figure: An illustration of OMS on a dark molecular ion trapped between 2 "bright" Ra<sup>+</sup> ions.
  
 We begin with a chain of 2 or 3 Ra<sup>+</sup> ions. Then, we leak in H<sub>2</sub>S gas (using the procedure above) and wait for one of the ions to go dark (depicted as a black box with a question mark in the figure above). We detune our 1079 nm Ra<sup>+</sup> repumping laser, which causes "local heating" and "gloabl cooling", which causes our ion chain to oscillate axially in the trap at a secular frequency of the trapped ions. 
 
