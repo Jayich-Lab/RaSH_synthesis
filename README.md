@@ -14,17 +14,17 @@ https://www.youtube.com/watch?v=cRtsexmFO4s
 
 1x [Three Necked Flask](https://www.sigmaaldrich.com/US/en/product/aldrich/synf431100?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1)
 
-1x Addition Funnel https://www.sigmaaldrich.com/US/en/product/aldrich/z548693
+1x [Addition Funnel](https://www.sigmaaldrich.com/US/en/product/aldrich/z548693)
 
-1x A Dozen Keck Clamps https://www.sigmaaldrich.com/US/en/product/aldrich/z150428
+1x [Dozen Keck Clamps](https://www.sigmaaldrich.com/US/en/product/aldrich/z150428)
 
-1x Glass Stopper https://www.sigmaaldrich.com/US/en/product/aldrich/cls757514
+1x [Glass Stopper](https://www.sigmaaldrich.com/US/en/product/aldrich/cls757514)
 
-2x Synthware™ 90 degree vacuum adapter with glass stopcock https://www.sigmaaldrich.com/US/en/product/aldrich/syna751420?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-3
+2x [Synthware™ 90 degree vacuum adapter with glass stopcock](https://www.sigmaaldrich.com/US/en/product/aldrich/syna751420?cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-3)
 
 1x 50 mL graduated cylinder
 
-1x Long glass straw (anything that can get H<sub>2</sub>S to the bottom of the graduated cylinder.)
+1x Long glass straw (any tube to get gaseous H<sub>2</sub>S to the bottom of the graduated cylinder.)
 
 2x CF Valve
 
