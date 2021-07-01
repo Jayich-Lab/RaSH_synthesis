@@ -1,5 +1,5 @@
 # H<sub>2</sub>S production
-Instructions for synthesizing H2S to be used for trapping RaSH.
+Instructions for synthesizing H<sub>2</sub>S to be used for trapping RaSH.
 
 **Warning:** The following chemistry should only be done under the protection of a fume hood! H2S is highly toxic even in small quantities.
 ## Reference Video 
