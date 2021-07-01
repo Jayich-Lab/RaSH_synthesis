@@ -1,5 +1,5 @@
 # RaSH<sup>+</sup>
-[Our research group](https://jayich.io/) is generally interested in working with exotic radioactive molecules to search for sources of new physics beyond the standard model.  To this end, the bent molecular ion RaSH<sup>+</sup> holds much discovery potential.  We describe below how we produce cold and trapped RaSH<sup>+</sup> in our ion trapping system.
+[Our research group](https://jayich.io/) is generally interested in working with exotic radioactive molecules to search for sources of new physics beyond the standard model.  To this end, the bent molecular ion RaSH<sup>+</sup> holds much discovery potential.  We described below how we produce cold and trapped RaSH<sup>+</sup> in our ion trapping system.
 
 # H<sub>2</sub>S production
 Instructions for synthesizing H<sub>2</sub>S to be used for trapping RaSH.
@@ -105,7 +105,7 @@ We use Optical Mass Spectrometry (OMS), which can realize sub-dalton resolution,
 
 Figure: An illustration of OMS on a dark molecular ion trapped between 2 "bright" Ra<sup>+</sup> ions.
  
-We begin with a chain of 2 or 3 Ra<sup>+</sup> ions. Then, we leak in H<sub>2</sub>S gas (using the procedure above) and wait for one of the ions to go dark (depicted as a black box with a question mark in the figure above). We change the detuning of either our 1079 nm Ra<sup>+</sup> repump laser, or the 468 nm Ra<sup>+</sup> cooling laser, which results in "local heating" and "gloabl cooling" that causes our ion chain to oscillate axially in the trap at a secular frequency of the trapped ions. 
+We begin with a chain of 2 or 3 Ra<sup>+</sup> ions. Then, we leak in H<sub>2</sub>S gas (using the procedure above) and wait for one of the ions to go dark (depicted as a black box with a question mark in the figure above). We change the detuning of either our 1079 nm Ra<sup>+</sup> repump laser, or the 468 nm Ra<sup>+</sup> cooling laser, which results in "local heating" and "global cooling" that causes our ion chain to oscillate axially in the trap at a secular frequency of the trapped ions. 
 
 When an ion goes dark, we immediately perform OMS and record an FFT of the axial oscillation frequency. We continue to do this periodically, (about every 5 minutes), in order to check if there has been any drift of the axial frequency. We monitor the dark ion until it dissociates, and as soon as the dark ion dissociates, we perform OMS on the the chain of bright ions. We use the data from the post-dissociation OMS FFT to calibrate the final dark ion OMS FFT, and end up with the following plot:
 ![RaSH_github](https://user-images.githubusercontent.com/59063892/124175841-f4952f80-da62-11eb-85fb-e6cd5a95b95e.png)
