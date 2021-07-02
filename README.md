@@ -6,7 +6,7 @@ Instructions for synthesizing H<sub>2</sub>S for synethsizing RaSH<sup>+</sup> v
 
 H<sub>2</sub>S + Ra<sup>+</sup> ⟶ RaSH<sup>+</sup> + H.
 
-**Warning:** The following chemistry should only be done under the protection of a fume hood! H<sub>2</sub>S is highly toxic even in small quantities.
+**Warning:** The following chemistry should be done with plenty of care.  H<sub>2</sub>S is highly toxic even in small quantities.
 ## Reference Video 
 [This video](https://www.youtube.com/watch?v=cRtsexmFO4s) explains how to make H<sub>2</sub>S, and is what we followed to develop our procedure.
 
@@ -48,7 +48,7 @@ Argon gas cylinder
 
 ## Procedure
 
-1) Put one H<sub>2</sub>S detector in the fumehood, and a second outside of the fumehood.
+1) Put one H<sub>2</sub>S detector in the fume hood, and a second outside of the fume hood.
 2) Fill a graduated cylinder with 50 mL of DI water. Put 21 g of CuSO4 into the graduated cylinder. Stir the solution until saturated.
 3) Put 5 g of FeS into the three-neck flask using a funnel.
 4) Make sure that the addition funnel valve is closed, and replace the funnel from the previous step with the addition funnel.
@@ -60,7 +60,7 @@ Argon gas cylinder
 10) Turn off argon, and close the valve connecting the three-neck flask to argon.
 11) Open the addition funnel valve slowly to introduce HCl into the three-neck flask to react with FeS. You should see bubbles in the CuSO<sub>4</sub> solution, and after a ~minute black precipitate will form in the solution. Close the addition funnel valve, and when bubbles are no longer forming, close off the two CF valves simultaneously. Take the glass cap off of the addition funnel.
 12) Undo the KF connections around the two CF valves.
-13) Blow out residual H<sub>2</sub>S in the two CF to KF connectors with N<sub>2</sub>.  The CF valves now contain H<sub>2</sub>S between them and may be removed from the fumehood for use with UHV experiments.
+13) Blow out residual H<sub>2</sub>S in the two CF to KF connectors with N<sub>2</sub>.  The CF valves now contain H<sub>2</sub>S between them and may be removed from the fume hood for use with UHV experiments.
 14) Open all valves on the three-neck flask and leave the addition funnel valve closed. Remove the cap on the addition funnel and flush with N<sub>2</sub>.
 15) Pour residual HCl from the addition funnel into the HCl waste bottle and dilute with water.
 16) Add water through a funnel into the three-neck flask, and pour the solution into another waste bottle.
