@@ -2,7 +2,9 @@
 [Our research group](https://jayich.io/) is generally interested in working with exotic radioactive molecules to search for sources of new physics beyond the standard model.  To this end, the bent molecular ion RaSH<sup>+</sup> holds much discovery potential.  We describe below how we produce cold and trapped RaSH<sup>+</sup> in our ion trapping system.
 
 # H<sub>2</sub>S production
-Instructions for synthesizing H<sub>2</sub>S for synethsizing RaSH<sup>+</sup> via the reaction H<sub>2</sub>S + Ra<sup>+</sup> ⟶ RaSH<sup>+</sup> + H.
+Instructions for synthesizing H<sub>2</sub>S for synethsizing RaSH<sup>+</sup> via the reaction  
+
+H<sub>2</sub>S + Ra<sup>+</sup> ⟶ RaSH<sup>+</sup> + H.
 
 **Warning:** The following chemistry should only be done under the protection of a fume hood! H<sub>2</sub>S is highly toxic even in small quantities.
 ## Reference Video 
